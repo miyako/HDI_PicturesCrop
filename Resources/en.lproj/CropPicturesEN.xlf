@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Translation file for 4D products.
+Copyright(C)2006 4D SA.
+This file is distributed under the same license as the 4D product package.
+-->
+
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+
+<xliff version="1.0">
+   <file build-num="9.0" datatype="x-STR#" date="2006-04-20T12:13:41Z" original="4th Dimension" product-name="4th Dimension" product-version="v11" source-language="en-US" target-language="en-US">
+      <body>
+         <group id="15996" resname="Page1">
+            <trans-unit id="1" resname="Thema">
+               <source>Images</source>
+               <target>Images</target>
+            </trans-unit>
+            <trans-unit id="2" resname="Name">
+               <source>Croping image</source>
+               <target>Croping image</target>
+            </trans-unit>
+            <trans-unit id="3" resname="Description">
+<source>This demonstration shows how to crop a picture.
+The original picture can be of any type supported (jpg, gif, png, etc.).
+Cropping is determined by four parameters: The X and Y origins and the final width and height desired.
+</source>
+<target>This demonstration shows how to crop a picture.
+    The original picture can be of any type supported (jpg, gif, png, etc.).
+    Cropping is determined by four parameters: The X and Y origins and the final width and height desired.
+</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>
